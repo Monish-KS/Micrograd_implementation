@@ -21,9 +21,9 @@ To run this project, you need to have Python and PyTorch installed. The followin
 * PyTorch (>= 1.7.0)
 * Numpy
 
-'''bash
+```bash
 pip install torch numpy
-'''
+```
 
 Explanation
 Single Layer Perceptron
